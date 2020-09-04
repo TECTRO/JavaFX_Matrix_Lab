@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Практика">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="C:\Users\antpr\Рабочий стол\Практика\src\Main.java" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name=".jar">
+        <element id="module-output" name="Практика" />
+      </element>
+    </root>
+  </artifact>
+</component>

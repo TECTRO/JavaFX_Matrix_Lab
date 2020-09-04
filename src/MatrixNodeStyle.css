@@ -1,0 +1,52 @@
+#defValue .text
+{
+    -fx-fill: #505050;
+}
+
+#minValue
+{
+    -fx-background-color: inherit;
+    -fx-border-style: dotted;
+    -fx-border-width: 1;
+    -fx-border-color: #494949;
+}
+#minValue .text
+{
+    -fx-fill: blueviolet;
+    -fx-stroke: #505050;
+    -fx-stroke-width: 0.2;
+}
+#maxValue
+{
+    -fx-background-color: inherit;
+    -fx-border-style: dotted;
+    -fx-border-width: 1;
+    -fx-border-color: #494949;
+
+}
+#maxValue .text
+{
+    -fx-fill: rgb(61, 0, 113);
+    -fx-stroke: black;
+    -fx-stroke-width: 0.4;
+}
+
+#mainDiagonal .text
+{
+    -fx-fill: blueviolet;
+    -fx-stroke: #505050;
+    -fx-stroke-width: 0.1;
+}
+#sideDiagonal .text
+{
+    -fx-fill: rgb(61, 0, 113);
+    -fx-stroke: black;
+    -fx-stroke-width: 0.0;
+}
+
+#midNode .text
+{
+    -fx-fill: rgb(140, 37, 179);
+    -fx-stroke: black;
+    -fx-stroke-width: 0.1;
+}
